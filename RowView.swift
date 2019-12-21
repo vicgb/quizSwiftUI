@@ -2,7 +2,7 @@
 //  RowView.swift
 //  P5_SwiftUI
 //
-//  Created by G903 on 19/12/2019.
+//  Created by vicgb on 19/12/2019.
 //  Copyright © 2019 UPM. All rights reserved.
 //
 

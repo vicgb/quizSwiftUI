@@ -2,7 +2,7 @@
 //  Quiz_model.swift
 //  P5_SwiftUI
 //
-//  Created by g903 on 19/12/2019.
+//  Created by vicgb on 19/12/2019.
 //  Copyright © 2019 UPM. All rights reserved.
 //
 
